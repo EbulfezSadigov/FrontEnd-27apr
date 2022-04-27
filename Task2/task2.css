@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+    margin: auto;
+    width: 700px;
+}
+div img{
+    object-fit: cover;
+    width: 600px;
+    height: 500px;
+}
+div p,h1{
+    font-family:cursive;
+}
+div a{
+    text-decoration: none;
+    border-color:darkgrey;
+    border-style: solid;
+    border-top: 4px;
+    border-bottom: 4px;
+    padding: 10px;
+    color:dimgray;
+    font-family:cursive;
+}
